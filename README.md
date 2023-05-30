@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a software engineer job<br>👯 I’m looking to collaborate on any challenging project<br>🌱 I’m currently learning Spring Boot and Angular<br>💬 Ask me about what is my favorite video game<br>
+🔭 'm currently pursuing a career in the software development industry<br>👯 I’m looking to collaborate on any challenging project<br>🌱 I’m currently learning Spring Boot and Angular<br>💬 Ask me about what is my favorite video game<br>
 
 
 ## 🌐 Socials:
